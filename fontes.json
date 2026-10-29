@@ -1,0 +1,15 @@
+{
+  "minutos_economizados_por_execucao": 30,
+  "noticias_por_fonte": 5,
+  "palavras_ignoradas": ["oferta", "menor preço", "cupom", "desconto", "promoção", "black friday", "deal"],
+  "fontes": [
+    {"nome": "Tecnoblog", "categoria": "Tech Brasil", "url": "https://tecnoblog.net/feed/"},
+    {"nome": "Olhar Digital", "categoria": "Tech Brasil", "url": "https://olhardigital.com.br/feed/"},
+    {"nome": "TechCrunch", "categoria": "Tech Mundo", "url": "https://techcrunch.com/feed/"},
+    {"nome": "The Verge", "categoria": "Tech Mundo", "url": "https://www.theverge.com/rss/index.xml"},
+    {"nome": "Ars Technica", "categoria": "Tech Mundo", "url": "https://feeds.arstechnica.com/arstechnica/index"}
+  ],
+  "indicadores_bcb": [
+    {"nome": "Dólar (PTAX venda)", "serie": 1, "formato": "R$ {valor}"}
+  ]
+}

@@ -41,7 +41,7 @@ relatorios/AAAA-MM-DD.md  +  historico.json  +  placar no README
 ## Rodando no seu computador
 
 ```bash
-git clone https://github.com/SEU-USUARIO/resumo-diario.git
+git clone https://github.com/IsabellaMarcelli/resumo-diario.git
 cd resumo-diario
 python resumo.py          # gera o relatório de hoje
 python -m unittest        # roda os testes (não precisa de internet)

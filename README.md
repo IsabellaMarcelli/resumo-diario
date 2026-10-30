@@ -5,7 +5,7 @@ Automação em Python que, todo dia às 7h (horário de Brasília), lê as princ
 Ela substitui cerca de **30 minutos por dia** de leitura manual em vários sites, ou seja, cerca de 180 horas por ano.
 
 <!-- HORAS:INICIO -->
-⏱️ **0,5 h economizadas** em 1 dia de execução (última: 2026-10-29)
+⏱️ **1,0 h economizadas** em 2 dias de execução (última: 2026-10-30)
 <!-- HORAS:FIM -->
 
 ## Como funciona
